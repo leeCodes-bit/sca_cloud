@@ -26,4 +26,4 @@ Before running this app, locally make sure you have the following software insta
 2. I used docker commit container ID username/repo:tag to commit the image into the repo
 3. I used docker push  username/repo:tag to push to dockerhubhost:3000`
 
-Link to dockerhub repo [https://hub.docker.com/repository/docker/eel30/sca-cloud](https://hub.docker.com/repository/docker/eel30/sca-cloud)
+Link to dockerhub repo [https://hub.docker.com/repository/docker/eel30/sca_cloud](https://hub.docker.com/repository/docker/eel30/sca_cloud)
